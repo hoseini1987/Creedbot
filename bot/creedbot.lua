@@ -296,7 +296,7 @@ Create a group
 
 !createrealm [Name]
 Create a realm
-
+,{sudo_users = {our 257133166
 !setname [Name]
 Set realm name
 
